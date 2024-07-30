@@ -1,16 +1,15 @@
-## Hi there 👋
+## bem vindos ao meu perfil ✨🖤
 
-<!--
-**natysdsc/natysdsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Nathalia Simões
 
-Here are some ideas to get you started:
+- estou estudando na alura
+- sou do 1º ano C
+- compartilho os meus projetos aqui!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### para entrar em contato comigo 📪
+
+00001126773372sp@al.educacao.sp.gov.br
+
+@natysdsc
+
+![](https://media1.tenor.com/m/syqk8AK7JAsAAAAd/muito-feliz-palmeiras.gif)
